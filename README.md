@@ -4,6 +4,8 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 
 ## Model
 ### Modality-specific Encoders
+#### Vision Encoder
+1. 2017_ArXiv_Mobilenets: Efficient convolutional neural networks for mobile vision applications [https://arxiv.org/abs/1704.04861]
 ### Unified Encoders
 ### Structural Sparsity
 ### Structural Decoding
