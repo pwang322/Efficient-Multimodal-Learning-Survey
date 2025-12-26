@@ -196,10 +196,39 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 16. 2024_arXiv_Llava-prumerge: Adaptive token reduction for efficient large multimodal models [arXiv](https://arxiv.org/abs/2403.15388)
 ## System
 ### KV Cache Management & Serving
+1. 2025_arXiv_Characterizing and Efficiently Accelerating Multimodal Generation Models [arXiv](https://arxiv.org/abs/2410.00215)
+2. 2025_arXiv_Fastcache: Optimizing multimodal llm serving through lightweight kv-cache compression framework [arXiv](https://arxiv.org/abs/2503.08461)
+3. 2025_arXiv_Meda: Dynamic kv cache allocation for efficient multimodal long-context inference [arXiv](https://arxiv.org/abs/2502.17599)
+4. 2025_arXiv_MPIC: Position-Independent Multimodal Context Caching System for Efficient MLLM Serving [arXiv](https://arxiv.org/abs/2502.01960)
+5. 2024_arXiv_Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context [arXiv](https://arxiv.org/abs/2403.05530)
+
 ### Edge–cloud Collaboration
+1. 2024_ACM_EdgeCloudAI: Edge-Cloud Distributed Video Analytics [ACM](https://dl.acm.org/doi/10.1145/3636534.3698857)
+2. 2025_arXiv_MoA-Off: Adaptive Heterogeneous Modality-Aware Offloading with Edge-Cloud Collaboration for Efficient Multimodal LLM Inference [arXiv](https://arxiv.org/abs/2509.16995)
+3. 2020_ACM_Challenge: COSMOS: A city-scale programmable testbed for experimentation with advanced wireless [ACM](https://dl.acm.org/doi/10.1145/3372224.3380891)
+4. 2023_CVPR_Cloud-Device Collaborative Adaptation to Continual Changing Environments in the Real-world [arXiv](https://arxiv.org/abs/2212.00972)
+
 ### Latency-Aware Scheduling & Pipelining
+1. 2025_arXiv_RServe: Overlapping Encoding and Prefill for Efficient LMM Inference [arXiv](https://arxiv.org/abs/2509.24381)
+2. 2024_arXiv_Inf-MLLM: Efficient streaming inference of multimodal large language models on a single GPU [arXiv](https://arxiv.org/abs/2409.09086)
+3. 2023_NeurIPS_H2o: Heavy-hitter oracle for efficient generative inference of large language models [arXiv](https://arxiv.org/abs/2306.14048)
+4. 2025_ACM_Adaptive Scheduling of Multimodal Large Language Model in Intelligent Edge Computing [ACM](https://dl.acm.org/doi/abs/10.1145/3774908)
+5. 2025_arXiv_The Amazon Nova Family of Models: Technical Report and Model Card [arXiv](https://arxiv.org/abs/2506.12103)
+
 ### Hardware-software Co-design
+1. 2024_ISPASS_Generative AI Beyond LLMs: System Implications of Multi-Modal Generation [arXiv](https://arxiv.org/abs/2312.14385)
+2. 2023_ACML_Harmonic-NAS: Hardware-Aware Multimodal Neural Architecture Search on Resource-constrained Devices [arXiv](https://arxiv.org/abs/2309.06612)
+
 ### Federated Learning
+1. 2023_ICLR_FedCLIP: Fast Generalization and Personalization for CLIP in Federated Learning [arXiv](https://arxiv.org/abs/2302.13485)
+2. 2023_ACM_pFedPrompt: Learning Personalized Prompt for Vision-Language Models in Federated Learning [ACM](https://dl.acm.org/doi/10.1145/3543507.3583518)
+3. 2023_ICLR_Multimodal Federated Learning via Contrastive Representation Ensemble [arXiv](https://arxiv.org/abs/2302.08888)
+4. 2025_ACM_FedMEKT: Distillation-Based Embedding Knowledge Transfer for Multimodal Federated Learning [arXiv](https://arxiv.org/abs/2307.13214) [ACM](https://dl.acm.org/doi/10.1016/j.neunet.2024.107017)
+5. 2021_ACM_FedCMR: Federated Cross-Modal Retrieval [ACM](https://dl.acm.org/doi/10.1145/3404835.3462989)
+6. 2023_arXiv_Multimodal Federated Learning with Missing Modality via Prototype Mask and Contrast [arXiv](https://arxiv.org/abs/2312.13508)
+7. 2024_arXiv_Communication-Efficient Multimodal Federated Learning: Joint Modality and Client Selection [arXiv](https://arxiv.org/html/2401.16685v1)
+8. 2022_AAAI_Cross-Modal Federated Human Activity Recognition via Modality-Agnostic and Modality-Specifc Representation Learning [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/20213)
+9. 2024_TPAMI_Cross-Modal Federated Human Activity Recognition [IEEE](https://ieeexplore.ieee.org/document/10440498)
 
 ## Application
 ### Affective Computing and Human Behavior Analysis
