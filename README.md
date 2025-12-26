@@ -44,7 +44,7 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 1. 2017_ICASSP_CNN ARCHITECTURES FOR LARGE-SCALE AUDIO CLASSIFICATION [arXiv](https://arxiv.org/abs/1609.09430)
 2. 2020_TASLP_Panns: Large-scale pretrained audio neural networks for audio pattern recognition [arXiv](https://arxiv.org/abs/1912.10211)
 3. 2020_NeurIPS_wav2vec 2.0: a framework for self-supervised learning of speech representations [arXiv](https://arxiv.org/abs/2006.11477)
-4. 2021_ACM_Hubert: Self-supervised speech representation learning by masked prediction of hidden units [arXiv](https://arxiv.org/abs/2106.07447)
+4. 2021_TASLP_Hubert: Self-supervised speech representation learning by masked prediction of hidden units [arXiv](https://arxiv.org/abs/2106.07447)
 5. 2021_Interspeech_AST: Audio Spectrogram Transformer [arXiv](https://arxiv.org/abs/2104.01778)
 6. 2022_AAAI_SSAST: Self-Supervised Audio Spectrogram Transformer [arXiv](https://arxiv.org/abs/2110.09784)
 7. 2024_Interspeech_Audio Mamba: Selective State Spaces for Self-Supervised Audio Representations [arXiv](https://arxiv.org/abs/2406.02178)
@@ -136,7 +136,7 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 3. 2025_arXiv_Vlmq: Efficient post-training quantization for large vision-language models via hessian augmentation [arXiv](https://arxiv.org/abs/2508.03351)
 4. 2025_ACM_Mquant: Unleashing the inference potential of multimodal large language models via static quaantization [arXiv](https://arxiv.org/abs/2502.00425)
 5. 2025_arXiv_STaMP: Sequence Transformation and Mixed Precision for Low-Precision Activation QuantizationSTaMP: Sequence Transformation and Mixed Precision for Low-Precision Activation Quantization [arXiv](https://arxiv.org/abs/2510.26771)
-6. 2024_ACMMM_Advancing Multimodal Large Language Models with Quantization-Aware Scale Learning for Efficient Adaptation [arXiv](https://arxiv.org/abs/2408.03735)
+6. 2024_MM_Advancing Multimodal Large Language Models with Quantization-Aware Scale Learning for Efficient Adaptation [arXiv](https://arxiv.org/abs/2408.03735)
 
 ### Caching & Reuse
 1. 2024_arXiv_VL-Cache: Sparsity and Modality-Aware KV Cache Compression for Vision-Language Model Inference Acceleration [arXiv](https://arxiv.org/abs/2410.23317)
@@ -212,7 +212,7 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 1. 2025_arXiv_RServe: Overlapping Encoding and Prefill for Efficient LMM Inference [arXiv](https://arxiv.org/abs/2509.24381)
 2. 2024_arXiv_Inf-MLLM: Efficient streaming inference of multimodal large language models on a single GPU [arXiv](https://arxiv.org/abs/2409.09086)
 3. 2023_NeurIPS_H2o: Heavy-hitter oracle for efficient generative inference of large language models [arXiv](https://arxiv.org/abs/2306.14048)
-4. 2025_ACM_Adaptive Scheduling of Multimodal Large Language Model in Intelligent Edge Computing [ACM](https://dl.acm.org/doi/abs/10.1145/3774908)
+4. 2025_TAAS_Adaptive Scheduling of Multimodal Large Language Model in Intelligent Edge Computing [ACM](https://dl.acm.org/doi/abs/10.1145/3774908)
 5. 2025_arXiv_The Amazon Nova Family of Models: Technical Report and Model Card [arXiv](https://arxiv.org/abs/2506.12103)
 
 ### Hardware-software Co-design
