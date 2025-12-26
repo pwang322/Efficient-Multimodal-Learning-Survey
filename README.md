@@ -56,6 +56,7 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 5. 2021_AAAI_Informer: Beyond efficient transformer for long sequence time-series forecasting [arXiv](https://arxiv.org/abs/2012.07436)
 6. 2023_COLM_Mamba: Linear-Time Sequence Modeling with Selective State Spaces [arXiv](https://arxiv.org/abs/2312.00752)
 7. 2023_ICLR_Liquid Structural State-Space Models [arXiv](https://arxiv.org/abs/2209.12951)
+
 ### Unified Encoders
 1. 2020_ECCV_Uniter: Universal image-text representation learning [arXiv](https://arxiv.org/abs/1909.11740)
 2. 2021_ICLR_ViLT: Vision‑and‑Language Transformer Without Convolution or Region Supervision [arXiv](https://arxiv.org/abs/2102.03334)
@@ -70,6 +71,7 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 11. 2024_NAACL_i‑Code V2: An Autoregressive Generation Framework over Vision, Language, and Speech Data [arXiv](https://arxiv.org/abs/2305.12311)
 12. 2025_arXiv_UGen: Unified Autoregressive Multimodal Model with Progressive Vocabulary Learning [arXiv](https://arxiv.org/abs/2503.21193)
 13. 2024_Grok-1.5 Vision: a preview of xAI’s multimodal model [XAI](https://x.ai/news/grok-1.5v)
+
 ### Structural Sparsity
 1. 2022_NeurIPS_Vlmo: Unified vision-language pre-training with mixture-of-modality-experts [arXiv](https://arxiv.org/abs/2111.02358)
 2. 2022_NeurIPS_Multimodal contrastive learning with limoe: the language-image mixture of experts [arXiv](https://arxiv.org/abs/2206.02770)
@@ -78,6 +80,7 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 5. 2024_arXiv_Flex-moe: Modeling arbitrary modality combination via the flexible mixture-of-experts [arXiv](https://arxiv.org/abs/2410.08245)
 6. 2025_CVPR_Nvila: Efficient frontier visual language models [arXiv](https://arxiv.org/abs/2412.04468)
 7. 2025_arXiv_Smolvlm: Redefining small and efficient multimodal models [arXiv](https://arxiv.org/abs/2412.04468)
+
 ### Structural Decoding
 1. 2022_neurIPS_Flamingo: a visual language model for few-shot learning [arXiv](https://arxiv.org/abs/2204.14198)
 2. 2023_ICLR_Blip-2: Bootstrapping language-image pre-training with frozen image encoders and large language models [arXiv](https://arxiv.org/abs/2301.12597)
@@ -91,15 +94,106 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 7. 2025_AAAI_A wander through the multimodal landscape: Efficient transfer learning via low-rank sequence multimodal adapter [arXiv](https://arxiv.org/abs/2412.08979)
 8. 2024_CVPR_Mma: Multi-modal adapter for vision-language models [arXiv](https://arxiv.org/abs/2409.02958)
 9. 2024_arXiv_PaLM2-VAdapter: progressively aligned language model makes a strong vision-language adapter [arXiv](https://arxiv.org/abs/2402.10896)
-## Algorithm
-### Token Compression & Selective Computing
-### Pruning
-### Quantization
-### Knowledge Distillation
-### Prompting & Speculative Decoding
-### Caching & Reuse
-### Runtime Sparsity
 
+## Algorithm
+
+### Token Compression & Selective Computing
+1. 2023_arXiv_D2 pruning: Message passing for balancing diversity and difficulty in data pruning [arXiv](https://arxiv.org/abs/2310.07931)
+#### Tranining-free
+1. 2024_arXiv_Sparsevlm: Visual token sparsification for efficient vision-language model inference [arXiv](https://arxiv.org/abs/2410.04417)
+2. 2025_AAAI_ST3: Accelerating Multimodal Large Language Model by Spatial-Temporal Visual Token Trimming [arXiv](https://arxiv.org/abs/2412.20105)
+3. 2025_arXiv_Stop looking for important tokens in multimodal language models: Duplication matters more [arXiv](https://arxiv.org/abs/2502.11494)
+4. 2025_CVPR_Topv: Compatible token pruning with inference time optimization for fast and low-memory multimodal vision language model [arXiv](https://arxiv.org/abs/2503.18278)
+5. 2025_CVPR_Visionzip: Longer is better but not necessary in vision language models [arXiv](https://arxiv.org/abs/2412.04467)
+6. 2025_arXiv_Tokencarve: Information-preserving visual token compression in multimodal large language models [arXiv](https://arxiv.org/abs/2503.10501)
+7. 2024_arXiv_Multi-Stage Vision Token Dropping: Towards Efficient Multimodal Large Language Model [arXiv](https://arxiv.org/abs/2411.10803)
+8. 2025_arXiv_Adaretake: Adaptive redundancy reduction to perceive longer for video-language understanding [arXiv](https://arxiv.org/abs/2503.12559)
+9. 2025_arXiv_What Kind of Visual Tokens Do We Need? Training-free Visual Token Pruning for Multi-modal Large Language Models from the Perspective of Graph [arXiv](https://arxiv.org/abs/2501.02268)
+10. 2024_arXiv_Pyramiddrop: Accelerating your large vision-language models via pyramid visual redundancy reduction [arXiv](https://arxiv.org/abs/2410.17247)
+11. 2025_AAAI_HiRED: Attention-Guided Token Dropping for Efficient Inference of High-Resolution Vision-Language Models [arXiv](https://arxiv.org/abs/2408.10945)
+12. 2025_AAAI_Fit and prune: Fast and training-free visual token pruning for multi-modal large language models [arXiv](https://arxiv.org/abs/2409.10197)
+13. 2025_arXiv_Token Sequence Compression for Efficient Multimodal Computing [arXiv](https://arxiv.org/abs/2504.17892)
+14. 2024_NeurIPS_Efficient large multi-modal models via visual context compression [arXiv](https://arxiv.org/abs/2406.20092)
+#### Training-based
+1. 2023_arXiv_PuMer: Pruning and merging tokens for efficient vision language models [arXiv](https://arxiv.org/abs/2305.17530)
+2. 2024_arXiv_p-MoD: Building Mixture-of-Depths MLLMs via Progressive Ratio Decay [arXiv](https://arxiv.org/abs/2412.04449)
+3. 2025_arXiv_Fast: Efficient action tokenization for vision-language-action models [arXiv](https://arxiv.org/abs/2501.09747)
+4. 2024_arXiv_Tokenpacker: Efficient visual projector for multimodal llm [arXiv](https://arxiv.org/abs/2407.02392)
+5. 2025_arXiv_Folder: Accelerating multi-modal large language models with enhanced performance [arXiv](https://arxiv.org/abs/2501.02430)
+6. 2025_CVPR_Visionzip: Longer is better but not necessary in vision language models [arXiv](https://arxiv.org/abs/2412.04467)
+7. 2024_NeurIPS_Efficient large multi-modal models via visual context compression [arXiv](https://arxiv.org/abs/2406.20092)
+
+### Pruning
+1. 2024_ACM_Large multimodal model compression via iterative efficient pruning and distillation [arXiv](https://arxiv.org/abs/2312.05795)
+2. 2023_arXiv_Ecoflap: Efficient coarse-to-fine layer-wise pruning for vision-language models [arXiv](https://arxiv.org/abs/2310.02998)
+3. 2025_arXiv_EfficientLLaVA: Generalizable Auto-Pruning for Large Vision-language Models [arXiv](https://arxiv.org/abs/2503.15369)
+4. 2023_ICLR_UPop: Unified and progressive pruning for compressing vision-language transformers [arXiv](https://arxiv.org/abs/2301.13741)
+5. 2025_arXiv_Modality-Aware Neuron Pruning for Unlearning in Multimodal Large Language Models [arXiv](https://arxiv.org/abs/2502.15910)
+
+### Quantization
+1. 2024_NeurIPS_Q-vlm: Post-training quantization for large vision-language models [arXiv](https://arxiv.org/abs/2410.08119)
+2. 2025_CVPR_Mbq: Modality-balanced quantization for large vision-language models [arXiv](https://arxiv.org/abs/2412.19509)
+3. 2025_arXiv_Vlmq: Efficient post-training quantization for large vision-language models via hessian augmentation [arXiv](https://arxiv.org/abs/2508.03351)
+4. 2025_ACM_Mquant: Unleashing the inference potential of multimodal large language models via static quaantization [arXiv](https://arxiv.org/abs/2502.00425)
+5. 2025_arXiv_STaMP: Sequence Transformation and Mixed Precision for Low-Precision Activation QuantizationSTaMP: Sequence Transformation and Mixed Precision for Low-Precision Activation Quantization [arXiv](https://arxiv.org/abs/2510.26771)
+6. 2024_ACMMM_Advancing Multimodal Large Language Models with Quantization-Aware Scale Learning for Efficient Adaptation [arXiv](https://arxiv.org/abs/2408.03735)
+
+### Caching & Reuse
+1. 2024_arXiv_VL-Cache: Sparsity and Modality-Aware KV Cache Compression for Vision-Language Model Inference Acceleration [arXiv](https://arxiv.org/abs/2410.23317)
+2. 2024_ECCV_Efficient inference of vision instruction-following models with elastic cache [arXiv](https://arxiv.org/abs/2407.18121)
+3. 2024_arXiv_Look-m: Look-once optimization in kv cache for efficient multimodal long-context inference [arXiv](https://arxiv.org/abs/2406.18139)
+4. 2024_arXiv_Cross-Self KV Cache Pruning for Efficient Vision-Language Inference [arXiv](https://arxiv.org/abs/2412.04652)
+5. 2025_arXiv_Fastcache: Optimizing multimodal llm serving through lightweight kv-cache compression framework [arXiv](https://arxiv.org/abs/2503.08461)
+6. 2025_arXiv_AirCache: Activating Inter-modal Relevancy KV Cache Compression for Efficient Large Vision-Language Model Inference [arXiv](https://arxiv.org/abs/2503.23956)
+7. 2025_arXiv_VLA-Cache: Towards Efficient Vision-Language-Action Model via Adaptive Token Caching in Robotic Manipulation [arXiv](https://arxiv.org/abs/2502.02175)
+8. 2024_arXiv_Inf-MLLM: Efficient streaming inference of multimodal large language models on a single GPU [arXiv](https://arxiv.org/abs/2409.09086)
+9. 2025_arXiv_MPIC: Position-Independent Multimodal Context Caching System for Efficient MLLM Serving [arXiv](https://arxiv.org/abs/2502.01960)
+10. 2025_arXiv_Cache-of-Thought: Master-Apprentice Framework for Cost-Effective Vision Language Model Inference [arXiv](https://arxiv.org/abs/2502.20587)
+
+### Knowledge Distillation
+#### Prediction-level
+1. 2021_CVPR_Thinking fast and slow: Efficient text-to-visual retrieval with transformers [arXiv](https://arxiv.org/abs/2103.16553)
+2. 2025_arXiv_Simple Semi-supervised Knowledge Distillation from Vision-Language Models via Dual-Head Optimization [arXiv](https://arxiv.org/html/2505.07675v1)
+3. 2024_CVPR_Promptkd: Unsupervised prompt distillation for vision-language models [arXiv](https://arxiv.org/abs/2403.02781)
+4. 2025_arXiv_FDBPL: Faster Distillation-Based Prompt Learning for Region-Aware Vision-Language Models Adaptation [arXiv](https://arxiv.org/abs/2505.18053)
+#### Representation-level
+1. 2024_CVPR_Clip-kd: An empirical study of clip model distillation [arXiv](https://arxiv.org/abs/2307.12732)
+2. 2023_ICCV_Tinyclip: Clip distillation via affinity mimicking and weight inheritance [arXiv](https://arxiv.org/abs/2309.12314)
+3. 2024_arXiv_Dynamic Self-adaptive Multiscale Distillation from Pre-trained Multimodal Large Model for Efficient Cross-modal Representation Learning [arXiv](https://arxiv.org/abs/2404.10838)
+4. 2024_CVPR_Building vision-language models on solid foundations with masked distillation [CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Sameni_Building_Vision-Language_Models_on_Solid_Foundations_with_Masked_Distillation_CVPR_2024_paper.pdf)
+5. 2024_CVPR_Mobileclip: Fast image-text models through multi-modal reinforced training [arXiv](https://arxiv.org/abs/2311.17049)
+6. 2025_arXiv_Multimodal mamba: Decoder-only multimodal state space model via quadratic to linear distillation [arXiv](https://arxiv.org/abs/2502.13145)
+#### Behavior-level
+1. 2025_arXiv_Skywork r1v: pioneering multimodal reasoning with chain-of-thought [arXiv](https://arxiv.org/abs/2504.05599)
+2. 2024_CVPR_Visual program distillation: Distilling tools and programmatic reasoning into vision-language models [arXiv](https://arxiv.org/abs/2312.03052)
+3. 2024_arXiv_Llava-mod: Making llava tiny via moe knowledge distillation [arXiv](https://arxiv.org/abs/2408.15881)
+
+### Prompting & Speculative Decoding
+1. 2022_ECCV_Visual prompt tuning [arXiv](https://arxiv.org/abs/2203.12119)
+2. 2021_ACL_Prefix-Tuning: Optimizing Continuous Prompts for Generation [arXiv](https://arxiv.org/abs/2101.00190)
+3. 2022_CVPR_Conditional Prompt Learning for Vision-Language Models [arXiv](https://arxiv.org/abs/2203.05557)
+4. 2024_CVPR_On speculative decoding for multimodal large language models [arXiv](https://arxiv.org/abs/2404.08856)
+5. 2025_DAC_AASD: Accelerate Inference by Aligning Speculative Decoding in Multimodal Large Language Models [IEEE](https://ieeexplore.ieee.org/document/11132960)
+6. 2025_arXiv_Speculative decoding and beyond: An in-depth survey of techniques [arXiv](https://arxiv.org/abs/2502.19732)
+7. 2025_arXiv_Spec-vla: speculative decoding for vision-language-action models with relaxed acceptance [arXiv](https://arxiv.org/abs/2507.22424)
+
+### Runtime Sparsity
+1. 2025_arXiv_Skip-Vision: Efficient and Scalable Acceleration of Vision-Language Models via Adaptive Token Skipping [arXiv](https://arxiv.org/abs/2503.21817)
+2. 2023_CVPR_Dynamic inference with grounding based vision and language models [CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Uzkent_Dynamic_Inference_With_Grounding_Based_Vision_and_Language_Models_CVPR_2023_paper.pdf)
+3. 2025_arXiv_MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation [arXiv](https://arxiv.org/abs/2503.20384)
+4. 2024_arXiv_γ-MoD: Exploring Mixture-of-Depth Adaptation for Multimodal Large Language Models [arXiv](https://arxiv.org/abs/2410.13859)
+5. 2022_arXiv_mplug: Effective and efficient vision-language learning by cross-modal skip-connections [arXiv](https://arxiv.org/abs/2205.12005)
+6. 2022_CVPR_Deecap: Dynamic early exiting for efficient image captioning [CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Fei_DeeCap_Dynamic_Early_Exiting_for_Efficient_Image_Captioning_CVPR_2022_paper.pdf)
+7. 2023_CVPR_You need multiple exiting: Dynamic early exiting for accelerating unified vision language model [arXiv](https://arxiv.org/abs/2211.11152)
+8. 2024_NeurIPS_Deer-vla: Dynamic inference of multimodal large language models for efficient robot execution [arXiv](https://arxiv.org/abs/2411.02359)
+9. 2024_arXiv_Not all layers of llms are necessary during inference [arXiv](https://arxiv.org/abs/2403.02181)
+10. 2024_arXiv_Crema: Generalizable and efficient video-language reasoning via multimodal modular fusion [arXiv](https://arxiv.org/abs/2402.05889)
+11. 2024_arXiv_CAPEEN: Image Captioning with Early Exits and Knowledge Distillation [arXiv](https://arxiv.org/abs/2410.04433)
+12. 2021_NAACL_Multimodal End‑to‑End Sparse Model for Emotion Recognition [arXiv](https://arxiv.org/abs/2103.09666)
+13. 2024_CVPR_Low‑Rank Approximation for Sparse Attention in Multi‑Modal LLMs [CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Song_Low-Rank_Approximation_for_Sparse_Attention_in_Multi-Modal_LLMs_CVPR_2024_paper.pdf)
+14. 2023_NeurIPS_Ties-merging: Resolving interference when merging models [arXiv](https://arxiv.org/abs/2306.01708)
+15. 2023_arXiv_An empirical study of multimodal model merging [arXiv](https://arxiv.org/abs/2304.14933)
+16. 2024_arXiv_Llava-prumerge: Adaptive token reduction for efficient large multimodal models [arXiv](https://arxiv.org/abs/2403.15388)
 ## System
 ### KV Cache Management & Serving
 ### Edge–cloud Collaboration
