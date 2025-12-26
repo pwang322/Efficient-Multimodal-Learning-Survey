@@ -42,7 +42,7 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 14. 2025_arXiv_TextMamba: Scene Text Detector with Mamba [arXiv](https://arxiv.org/abs/2512.06657)
 #### Audio Encoders
 1. 2017_ICASSP_CNN ARCHITECTURES FOR LARGE-SCALE AUDIO CLASSIFICATION [arXiv](https://arxiv.org/abs/1609.09430)
-2. 2020_ACM_Panns: Large-scale pretrained audio neural networks for audio pattern recognition [arXiv](https://arxiv.org/abs/1912.10211)
+2. 2020_TASLP_Panns: Large-scale pretrained audio neural networks for audio pattern recognition [arXiv](https://arxiv.org/abs/1912.10211)
 3. 2020_NeurIPS_wav2vec 2.0: a framework for self-supervised learning of speech representations [arXiv](https://arxiv.org/abs/2006.11477)
 4. 2021_ACM_Hubert: Self-supervised speech representation learning by masked prediction of hidden units [arXiv](https://arxiv.org/abs/2106.07447)
 5. 2021_Interspeech_AST: Audio Spectrogram Transformer [arXiv](https://arxiv.org/abs/2104.01778)
@@ -124,7 +124,7 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 7. 2024_NeurIPS_Efficient large multi-modal models via visual context compression [arXiv](https://arxiv.org/abs/2406.20092)
 
 ### Pruning
-1. 2024_ACM_Large multimodal model compression via iterative efficient pruning and distillation [arXiv](https://arxiv.org/abs/2312.05795)
+1. 2024_MM_Large multimodal model compression via iterative efficient pruning and distillation [arXiv](https://arxiv.org/abs/2312.05795)
 2. 2023_arXiv_Ecoflap: Efficient coarse-to-fine layer-wise pruning for vision-language models [arXiv](https://arxiv.org/abs/2310.02998)
 3. 2025_arXiv_EfficientLLaVA: Generalizable Auto-Pruning for Large Vision-language Models [arXiv](https://arxiv.org/abs/2503.15369)
 4. 2023_ICLR_UPop: Unified and progressive pruning for compressing vision-language transformers [arXiv](https://arxiv.org/abs/2301.13741)
@@ -203,9 +203,9 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 5. 2024_arXiv_Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context [arXiv](https://arxiv.org/abs/2403.05530)
 
 ### Edge–cloud Collaboration
-1. 2024_ACM_EdgeCloudAI: Edge-Cloud Distributed Video Analytics [ACM](https://dl.acm.org/doi/10.1145/3636534.3698857)
+1. 2024_MobiCom_EdgeCloudAI: Edge-Cloud Distributed Video Analytics [ACM](https://dl.acm.org/doi/10.1145/3636534.3698857)
 2. 2025_arXiv_MoA-Off: Adaptive Heterogeneous Modality-Aware Offloading with Edge-Cloud Collaboration for Efficient Multimodal LLM Inference [arXiv](https://arxiv.org/abs/2509.16995)
-3. 2020_ACM_Challenge: COSMOS: A city-scale programmable testbed for experimentation with advanced wireless [ACM](https://dl.acm.org/doi/10.1145/3372224.3380891)
+3. 2020_MobiCom_Challenge: COSMOS: A city-scale programmable testbed for experimentation with advanced wireless [ACM](https://dl.acm.org/doi/10.1145/3372224.3380891)
 4. 2023_CVPR_Cloud-Device Collaborative Adaptation to Continual Changing Environments in the Real-world [arXiv](https://arxiv.org/abs/2212.00972)
 
 ### Latency-Aware Scheduling & Pipelining
@@ -221,10 +221,10 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 
 ### Federated Learning
 1. 2023_ICLR_FedCLIP: Fast Generalization and Personalization for CLIP in Federated Learning [arXiv](https://arxiv.org/abs/2302.13485)
-2. 2023_ACM_pFedPrompt: Learning Personalized Prompt for Vision-Language Models in Federated Learning [ACM](https://dl.acm.org/doi/10.1145/3543507.3583518)
+2. 2023_WWW_pFedPrompt: Learning Personalized Prompt for Vision-Language Models in Federated Learning [ACM](https://dl.acm.org/doi/10.1145/3543507.3583518)
 3. 2023_ICLR_Multimodal Federated Learning via Contrastive Representation Ensemble [arXiv](https://arxiv.org/abs/2302.08888)
-4. 2025_ACM_FedMEKT: Distillation-Based Embedding Knowledge Transfer for Multimodal Federated Learning [arXiv](https://arxiv.org/abs/2307.13214) [ACM](https://dl.acm.org/doi/10.1016/j.neunet.2024.107017)
-5. 2021_ACM_FedCMR: Federated Cross-Modal Retrieval [ACM](https://dl.acm.org/doi/10.1145/3404835.3462989)
+4. 2025_Neural Networks_FedMEKT: Distillation-Based Embedding Knowledge Transfer for Multimodal Federated Learning [arXiv](https://arxiv.org/abs/2307.13214) [ACM](https://dl.acm.org/doi/10.1016/j.neunet.2024.107017)
+5. 2021_SIGIR_FedCMR: Federated Cross-Modal Retrieval [ACM](https://dl.acm.org/doi/10.1145/3404835.3462989)
 6. 2023_arXiv_Multimodal Federated Learning with Missing Modality via Prototype Mask and Contrast [arXiv](https://arxiv.org/abs/2312.13508)
 7. 2024_arXiv_Communication-Efficient Multimodal Federated Learning: Joint Modality and Client Selection [arXiv](https://arxiv.org/html/2401.16685v1)
 8. 2022_AAAI_Cross-Modal Federated Human Activity Recognition via Modality-Agnostic and Modality-Specifc Representation Learning [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/20213)
