@@ -71,9 +71,26 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 12. 2025_arXiv_UGen: Unified Autoregressive Multimodal Model with Progressive Vocabulary Learning [arXiv](https://arxiv.org/abs/2503.21193)
 13. 2024_Grok-1.5 Vision: a preview of xAI’s multimodal model [XAI](https://x.ai/news/grok-1.5v)
 ### Structural Sparsity
+1. 2022_NeurIPS_Vlmo: Unified vision-language pre-training with mixture-of-modality-experts [arXiv](https://arxiv.org/abs/2111.02358)
+2. 2022_NeurIPS_Multimodal contrastive learning with limoe: the language-image mixture of experts [arXiv](https://arxiv.org/abs/2206.02770)
+3. 2025_TPAMI_Uni-moe: Scaling unified multimodal llms with mixture of experts [arXiv](https://arxiv.org/abs/2405.11273)
+4. 2025_arXiv_LEO-MINI: An Efficient Multimodal Large Language Model using Conditional Token Reduction and Mixture of Multi-Modal Experts [arXiv](https://arxiv.org/abs/2504.04653)
+5. 2024_arXiv_Flex-moe: Modeling arbitrary modality combination via the flexible mixture-of-experts [arXiv](https://arxiv.org/abs/2410.08245)
+6. 2025_CVPR_Nvila: Efficient frontier visual language models [arXiv](https://arxiv.org/abs/2412.04468)
+7. 2025_arXiv_Smolvlm: Redefining small and efficient multimodal models [arXiv](https://arxiv.org/abs/2412.04468)
 ### Structural Decoding
+1. 2022_neurIPS_Flamingo: a visual language model for few-shot learning [arXiv](https://arxiv.org/abs/2204.14198)
+2. 2023_ICLR_Blip-2: Bootstrapping language-image pre-training with frozen image encoders and large language models [arXiv](https://arxiv.org/abs/2301.12597)
 ### Modular Adaptation
-
+1. 2019_ICML_Parameter-efficient transfer learning for NLP [arXiv](https://arxiv.org/abs/1902.00751)
+2. 2022_ICLR_Lora: Low-rank adaptation of large language models [arXiv](https://arxiv.org/abs/2106.09685)
+3. 2022_CVPR_Vl-adapter: Parameter-efficient transfer learning for vision-and-language tasks [arXiv](https://arxiv.org/abs/2112.06825)
+4. 2022_NeurIPS_Lst: Ladder side-tuning for parameter and memory efficient transfer learning [arXiv](https://arxiv.org/abs/2206.06522)
+5. 2023_NeurIPS_Visual instruction tuning [arXiv](https://arxiv.org/abs/2304.08485)
+6. 2023_arXiv_Minigpt-4: Enhancing vision-language understanding with advanced large language models [arXiv](https://arxiv.org/abs/2304.10592)
+7. 2025_AAAI_A wander through the multimodal landscape: Efficient transfer learning via low-rank sequence multimodal adapter [arXiv](https://arxiv.org/abs/2412.08979)
+8. 2024_CVPR_Mma: Multi-modal adapter for vision-language models [arXiv](https://arxiv.org/abs/2409.02958)
+9. 2024_arXiv_PaLM2-VAdapter: progressively aligned language model makes a strong vision-language adapter [arXiv](https://arxiv.org/abs/2402.10896)
 ## Algorithm
 ### Token Compression & Selective Computing
 ### Pruning
