@@ -94,10 +94,20 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 5. 2024_arXiv_Flex-moe: Modeling arbitrary modality combination via the flexible mixture-of-experts [arXiv](https://arxiv.org/abs/2410.08245)
 6. 2025_CVPR_Nvila: Efficient frontier visual language models [arXiv](https://arxiv.org/abs/2412.04468)
 7. 2025_arXiv_Smolvlm: Redefining small and efficient multimodal models [arXiv](https://arxiv.org/abs/2412.04468)
+8. 2024_arXiv_Llava-mole: Sparse mixture of lora experts for mitigating data conflicts in instruction finetuning mllms [arXiv](https://arxiv.org/abs/2401.16160)
+9. 2024_arXiv_Moe-llava: Mixture of experts for large vision-language models [arXiv](https://arxiv.org/abs/2401.15947)
+10. 2024_NeurIPS_Deer-vla: Dynamic inference of multimodal large language models for efficient robot execution [arXiv](https://arxiv.org/abs/2411.02359)
+11. 2025_arXiv_MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation [arXiv](https://arxiv.org/abs/2503.20384)
+12. 2024_AAAI_EVE: efficient vision-language pre-training with masked prediction and modality-aware moe [arXiv](https://arxiv.org/abs/2308.11971)
+13. 2025_arXiv_Astrea: A MOE-based Visual Understanding Model with Progressive Alignment [arXiv](https://arxiv.org/abs/2503.09445)
+14. 2024_arXiv_Routing experts: Learning to route dynamic experts in multi-modal large language models [arXiv](https://arxiv.org/abs/2407.14093)
+15. 2024_arXiv_Fusemoe: Mixture-of-experts transformers for fleximodal fusion [arXiv](https://arxiv.org/abs/2402.03226)
 
 ### Structural Decoding
 1. 2022_neurIPS_Flamingo: a visual language model for few-shot learning [arXiv](https://arxiv.org/abs/2204.14198)
 2. 2023_ICLR_Blip-2: Bootstrapping language-image pre-training with frozen image encoders and large language models [arXiv](https://arxiv.org/abs/2301.12597)
+3. 2023_NeurIPS_Bootstrapping Vision‑Language Learning with Decoupled Language Pre‑training [arXiv](https://arxiv.org/abs/2307.07063)
+
 ### Modular Adaptation
 1. 2019_ICML_Parameter-efficient transfer learning for NLP [arXiv](https://arxiv.org/abs/1902.00751)
 2. 2022_ICLR_Lora: Low-rank adaptation of large language models [arXiv](https://arxiv.org/abs/2106.09685)
@@ -108,6 +118,11 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 7. 2025_AAAI_A wander through the multimodal landscape: Efficient transfer learning via low-rank sequence multimodal adapter [arXiv](https://arxiv.org/abs/2412.08979)
 8. 2024_CVPR_Mma: Multi-modal adapter for vision-language models [arXiv](https://arxiv.org/abs/2409.02958)
 9. 2024_arXiv_PaLM2-VAdapter: progressively aligned language model makes a strong vision-language adapter [arXiv](https://arxiv.org/abs/2402.10896)
+10. 2023_ICLR_Blip-2: Bootstrapping language-image pre-training with frozen image encoders and large language models [arXiv](https://arxiv.org/abs/2301.12597)
+11. 2023_NeurIPS_Cheap and quick: Efficient vision-language instruction tuning for large language models [arXiv](https://arxiv.org/abs/2305.15023)
+12. 2022_ECCV_Tip-adapter: Training-free adaption of clip for few-shot classification [arXiv](https://arxiv.org/abs/2207.09519)
+13. 2023_arXiv_mplug-owl: Modularization empowers large language models with multimodality [arXiv](https://arxiv.org/abs/2304.14178)
+14. 2025_TPAMI_Otter: A multi-modal model with in-context instruction tuning [arXiv](https://arxiv.org/abs/2305.03726)
 
 ## Algorithm
 
