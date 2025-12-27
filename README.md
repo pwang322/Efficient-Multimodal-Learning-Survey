@@ -15,6 +15,7 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
     <img src="figs/png/Fig3_model.png" width="900">
   </a>
 </p>
+
 ### Modality-specific Encoders
 #### Vision Encoder
 1. 2017_arXiv_Mobilenets: Efficient convolutional neural networks for mobile vision applications [arXiv](https://arxiv.org/abs/1704.04861)
@@ -114,6 +115,7 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
     <img src="figs/png/Fig4_algorithm.png" width="900">
   </a>
 </p>
+
 ### Token Compression & Selective Computing
 1. 2023_arXiv_D2 pruning: Message passing for balancing diversity and difficulty in data pruning [arXiv](https://arxiv.org/abs/2310.07931)
 #### Tranining-free
@@ -220,6 +222,7 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
     <img src="figs/png/Fig5_system.png" width="900">
   </a>
 </p>
+
 ### KV Cache Management & Serving
 1. 2025_arXiv_Characterizing and Efficiently Accelerating Multimodal Generation Models [arXiv](https://arxiv.org/abs/2410.00215)
 2. 2025_arXiv_Fastcache: Optimizing multimodal llm serving through lightweight kv-cache compression framework [arXiv](https://arxiv.org/abs/2503.08461)
