@@ -320,7 +320,7 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 
 ### Affective Computing and Human Behavior Analysis
 1. 2025_AAAI_DLF: Disentangled-language-focused multimodal sentiment analysis [arXiv](https://arxiv.org/abs/2412.12225)
-2. 2024_NIPS_arxiv_Ugotme: An embodied system for affective human-robot interaction [arXiv](https://arxiv.org/abs/2410.18373)
+2. 2025_ICRA_Ugotme: An embodied system for affective human-robot interaction [arXiv](https://arxiv.org/abs/2410.18373)
 
 ### Embodied AI & Robotics
 1. 2018_NeurIPS_Speaker-follower models for vision-and-language navigation [arXiv](https://arxiv.org/abs/1806.02724)
