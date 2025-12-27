@@ -364,6 +364,7 @@ Figure 1. Overall landscape of Efficient Multimodal Learning (EML).
 2. 2023_ICRA_BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation [arXiv](https://arxiv.org/abs/2205.13542)
 3. 2021_ITSC_Fusionpainting: Multimodal fusion with adaptive attention for 3d object detection [arXiv](https://arxiv.org/abs/2106.12449)
 4. 2023_ICCV_On-device real-time custom hand gesture recognition [arXiv](https://arxiv.org/abs/2309.10858)
+5. 2025_ICCV_MM-Spatial: Exploring 3D Spatial Understanding in Multimodal LLMs [arXiv](https://arxiv.org/abs/2503.13111)
 
 ### Multimodal Reasoning
 1. 2019_arXiv_Lxmert: Learning cross-modality encoder representations from transformers [arXiv](https://arxiv.org/abs/1908.07490)
