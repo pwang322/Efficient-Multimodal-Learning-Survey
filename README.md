@@ -9,7 +9,12 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 </p>
 
 ## Model
-
+### Figure 3. Model-Level Efficiency Strategies
+<p align="center">
+  <a href="figs/Fig3_model.pdf">
+    <img src="figs/png/Fig3_model.png" width="900">
+  </a>
+</p>
 ### Modality-specific Encoders
 #### Vision Encoder
 1. 2017_arXiv_Mobilenets: Efficient convolutional neural networks for mobile vision applications [arXiv](https://arxiv.org/abs/1704.04861)
@@ -103,6 +108,12 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 
 ## Algorithm
 
+### Figure 4. Algorithm-Level Efficiency Strategies
+<p align="center">
+  <a href="figs/Fig4_algorithm.pdf">
+    <img src="figs/png/Fig4_algorithm.png" width="900">
+  </a>
+</p>
 ### Token Compression & Selective Computing
 1. 2023_arXiv_D2 pruning: Message passing for balancing diversity and difficulty in data pruning [arXiv](https://arxiv.org/abs/2310.07931)
 #### Tranining-free
@@ -200,7 +211,15 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 14. 2023_NeurIPS_Ties-merging: Resolving interference when merging models [arXiv](https://arxiv.org/abs/2306.01708)
 15. 2023_arXiv_An empirical study of multimodal model merging [arXiv](https://arxiv.org/abs/2304.14933)
 16. 2024_arXiv_Llava-prumerge: Adaptive token reduction for efficient large multimodal models [arXiv](https://arxiv.org/abs/2403.15388)
+
 ## System
+
+### Figure 5. System-Level Efficiency Strategies
+<p align="center">
+  <a href="figs/Fig5_system.pdf">
+    <img src="figs/png/Fig5_system.png" width="900">
+  </a>
+</p>
 ### KV Cache Management & Serving
 1. 2025_arXiv_Characterizing and Efficiently Accelerating Multimodal Generation Models [arXiv](https://arxiv.org/abs/2410.00215)
 2. 2025_arXiv_Fastcache: Optimizing multimodal llm serving through lightweight kv-cache compression framework [arXiv](https://arxiv.org/abs/2503.08461)
@@ -237,6 +256,13 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 9. 2024_TPAMI_Cross-Modal Federated Human Activity Recognition [IEEE](https://ieeexplore.ieee.org/document/10440498)
 
 ## Application
+
+### Figure 6. Efficient Multimodal LLMs Landscape
+<p align="center">
+  <a href="figs/Fig6_MLLMs.pdf">
+    <img src="figs/png/Fig6_MLLMs.png" width="900">
+  </a>
+</p>
 ### Affective Computing and Human Behavior Analysis
 ### Embodied AI & Robotics
 ### Media Understanding and Generation
