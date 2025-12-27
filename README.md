@@ -131,7 +131,6 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 
 ## Algorithm
 
-### Figure 4. Algorithm-Level Efficiency Strategies
 <p align="center">
   <a href="figs/Fig4_algorithm.pdf">
     <img src="figs/png/Algo.png" width="900">
@@ -238,7 +237,6 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 
 ## System
 
-### Figure 5. System-Level Efficiency Strategies
 <p align="center">
   <a href="figs/Fig5_system.pdf">
     <img src="figs/png/System.png" width="900">
@@ -281,7 +279,7 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 9. 2024_TPAMI_Cross-Modal Federated Human Activity Recognition [IEEE](https://ieeexplore.ieee.org/document/10440498)
 
 ## Application
-### Figure 6. Efficient Multimodal LLMs Landscape
+
 <p align="center">
   <a href="figs/Fig6_MLLMs.pdf">
     <img src="figs/png/MLLM.png" width="900">
