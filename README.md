@@ -300,6 +300,7 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 6. 2023_CoRL_Rt-2: Vision-language-action models transfer web knowledge to robotic control [arXiv](https://arxiv.org/abs/2307.15818)
 7. 2024_arXiv_Openvla: An open-source vision-language-action model [arXiv](https://arxiv.org/abs/2406.09246)
 8. 2025_arXiv_M3ET: Efficient Vision-Language Learning for Robotics based on Multimodal Mamba-Enhanced Transformer [arXiv](https://arxiv.org/html/2509.18005v1)
+9. 2025_NeurIPS_EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models [arXiv](https://arxiv.org/abs/2506.10100)
 
 ### Media Understanding and Generation
 1. 2021_EMNLP_VideoCLIP: Contrastive Pre-training for Zero-shot Video-Text Understanding [arXiv](https://arxiv.org/abs/2109.14084)
