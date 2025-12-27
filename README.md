@@ -256,16 +256,54 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 9. 2024_TPAMI_Cross-Modal Federated Human Activity Recognition [IEEE](https://ieeexplore.ieee.org/document/10440498)
 
 ## Application
-
 ### Figure 6. Efficient Multimodal LLMs Landscape
 <p align="center">
   <a href="figs/Fig6_MLLMs.pdf">
     <img src="figs/png/Fig6_MLLMs.png" width="900">
   </a>
 </p>
+
 ### Affective Computing and Human Behavior Analysis
+1. 2025_AAAI_DLF: Disentangled-language-focused multimodal sentiment analysis [arXiv](https://arxiv.org/abs/2412.12225)
+2. 2024_NIPS_arxiv_Ugotme: An embodied system for affective human-robot interaction [arXiv](https://arxiv.org/abs/2410.18373)
+
 ### Embodied AI & Robotics
+1. 2018_NeurIPS_Speaker-follower models for vision-and-language navigation [arXiv](https://arxiv.org/abs/1806.02724)
+2. 2022_CoRL_A persistent spatial semantic representation for high-level natural language instruction execution [arXiv](https://arxiv.org/abs/2107.05612)
+3. 2022_AAAI_Teach: Task-driven embodied agents that chat [arXiv](https://arxiv.org/abs/2110.00534)
+4. 2023_CoRL_Do as i can, not as i say: Grounding language in robotic affordances [arXiv](https://arxiv.org/abs/2204.01691)
+5. 2025_arXiv_CrayonRobo: Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation [arXiv](https://arxiv.org/abs/2505.02166)
+6. 2023_CoRL_Rt-2: Vision-language-action models transfer web knowledge to robotic control [arXiv](https://arxiv.org/abs/2307.15818)
+7. 2024_arXiv_Openvla: An open-source vision-language-action model [arXiv](https://arxiv.org/abs/2406.09246)
+
 ### Media Understanding and Generation
+1. 2021_EMNLP_VideoCLIP: Contrastive Pre-training for Zero-shot Video-Text Understanding [arXiv](https://arxiv.org/abs/2109.14084)
+2. 2024_arXiv_Towards Bridging the Cross-modal Semantic Gap for Multi-modal Recommendation [arXiv](https://arxiv.org/abs/2407.05420)
+3. 2023_CVPR_Vop: Text-video co-operative prompt tuning for cross-modal retrieval [arXiv](https://arxiv.org/abs/2211.12764)
+4. 2024_ACL_Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models [arXiv](https://arxiv.org/abs/2306.05424)
+5. 2024_CVPR_MVBench: A Comprehensive Multi-modal Video Understanding Benchmark [arXiv](https://arxiv.org/abs/2311.17005)
+6. 2024_arXiv_Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis [arXiv](https://arxiv.org/abs/2405.21075)
+7. 2022_ECCV_End-to-end active speaker detection [arXiv](https://arxiv.org/abs/2203.14250)
+8. 2023_CVPR_A light weight model for active speaker detection [arXiv](https://arxiv.org/abs/2303.04439)
+
 ### Healthcare and Biomedical Intelligence
+1. 2023_CVPR_Learning to exploit temporal structure for biomedical vision-language processing [arXiv](https://arxiv.org/abs/2301.04558)
+2. 2024_MICCAI_KARGEN: Knowledge-Enhanced Automated Radiology report generation using large language models [arXiv](https://arxiv.org/abs/2409.05370)
+3. 2025_springer_CXR-LLAVA: a multimodal large language model for interpreting chest X-ray images [arXiv](https://arxiv.org/abs/2310.18341)
+4. 2023_NeurIPS_Llava-med: Training a large language-and-vision assistant for biomedicine in one day [arXiv](https://arxiv.org/abs/2306.00890)
+5. 2024_SenSys_Advancing PPG-based continuous blood pressure monitoring from a generative perspective [ACM](https://dl.acm.org/doi/10.1145/3666025.3699365)
+
 ### Spatial and Physical Scene Understanding
+1. 2019_CVPR_Pointpillars: Fast encoders for object detection from point clouds [arXiv](https://arxiv.org/abs/1812.05784)
+2. 2023_ICRA_BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation [arXiv](https://arxiv.org/abs/2205.13542)
+3. 2021_ITSC_Fusionpainting: Multimodal fusion with adaptive attention for 3d object detection [arXiv](https://arxiv.org/abs/2106.12449)
+4. 2023_ICCV_On-device real-time custom hand gesture recognition [arXiv](https://arxiv.org/abs/2309.10858)
+
 ### Multimodal Reasoning
+1. 2019_arXiv_Lxmert: Learning cross-modality encoder representations from transformers [arXiv](https://arxiv.org/abs/1908.07490)
+2. 2020_ECCV_Uniter: Universal image-text representation learning [arXiv](https://arxiv.org/abs/1909.11740)
+3. 2023_IGARSS_Lit-4-rsvqa: Lightweight transformer-based visual question answering in remote sensing [arXiv](https://arxiv.org/abs/2306.007580)
+4. 2023_arXiv_Llava-interactive: An all-in-one demo for image chat, segmentation, generation and editing [arXiv](https://arxiv.org/abs/2311.00571)
+5. 2023_arXiv_Minigpt-4: Enhancing vision-language understanding with advanced large language models [arXiv](https://arxiv.org/abs/2304.10592)
+6. 2024_arXiv_Mathglm-vision: solving mathematical problems with multi-modal large language model [arXiv](https://arxiv.org/abs/2409.13729)
+7. 2023_ICCV_ViperGPT: Visual Inference via Python Execution for Reasoning [arXiv](https://arxiv.org/abs/2303.08128)
