@@ -4,7 +4,7 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 ### Figure 1. Overall Efficient Multimodal Learning (EML) Framework
 <p align="center">
   <a href="figs/Fig1_overall.pdf">
-    <img src="figs/png/Fig1_overall.png" width="900">
+    <img src="figs/Fig1_overall.png" width="900">
   </a>
 </p>
 
