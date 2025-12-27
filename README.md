@@ -1,17 +1,18 @@
 # From Models to Systems: A Comprehensive Survey of Efficient Multimodal Learning
 The official GitHub page for the survey paper "From Models to Systems: A Comprehensive Survey of Efficient Multimodal Learning". And this paper is under review.
-<p align="center">
-  <a href="figs/Fig1_overall.pdf">
-    <img src="figs/png/Fig2.png" width="900">
-  </a>
-</p>
-
 
 <p align="center">
   <a href="figs/Fig1_overall.pdf">
     <img src="figs/png/Fig1_overall.png" width="900">
   </a>
 </p>
+
+<p align="center">
+  <a href="figs/Fig1_overall.pdf">
+    <img src="figs/png/Fig2.png" width="900">
+  </a>
+</p>
+
 
 ## Model
 
