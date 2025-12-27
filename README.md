@@ -6,7 +6,7 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
   </a>
 </p>
 
-### Figure 1. Overall Efficient Multimodal Learning (EML) Framework
+
 <p align="center">
   <a href="figs/Fig1_overall.pdf">
     <img src="figs/png/Fig1_overall.png" width="900">
@@ -14,10 +14,10 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 </p>
 
 ## Model
-### Figure 3. Model-Level Efficiency Strategies
+
 <p align="center">
   <a href="figs/Fig3_model.pdf">
-    <img src="figs/png/ArchitectureNew.png" width="900">
+    <img src="figs/png/Model.png" width="900">
   </a>
 </p>
 
@@ -134,7 +134,7 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 ### Figure 4. Algorithm-Level Efficiency Strategies
 <p align="center">
   <a href="figs/Fig4_algorithm.pdf">
-    <img src="figs/png/ComputationFinal.png" width="900">
+    <img src="figs/png/Algo.png" width="900">
   </a>
 </p>
 
@@ -241,7 +241,7 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 ### Figure 5. System-Level Efficiency Strategies
 <p align="center">
   <a href="figs/Fig5_system.pdf">
-    <img src="figs/png/SystemFinal.png" width="900">
+    <img src="figs/png/System.png" width="900">
   </a>
 </p>
 
@@ -284,7 +284,7 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 ### Figure 6. Efficient Multimodal LLMs Landscape
 <p align="center">
   <a href="figs/Fig6_MLLMs.pdf">
-    <img src="figs/png/Efficient MLLM.png" width="900">
+    <img src="figs/png/MLLM.png" width="900">
   </a>
 </p>
 
