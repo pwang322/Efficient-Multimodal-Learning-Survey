@@ -259,13 +259,15 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 20. 2020_arXiv_Longformer: The long-document transformer [arXiv](https://arxiv.org/abs/2004.05150)
 21. 202_NeurIPS_Big Bird: Transformers for Longer Sequences [arXiv](https://arxiv.org/abs/2007.14062)
 
-## System
+## Efficient Multimodal Large Language Model
 
 <p align="center">
   <a href="figs/Fig5_system.pdf">
     <img src="figs/png/System.png" width="900">
   </a>
 </p>
+
+## System
 
 ### KV Cache Management & Serving
 1. 2025_arXiv_Characterizing and Efficiently Accelerating Multimodal Generation Models [arXiv](https://arxiv.org/abs/2410.00215)
