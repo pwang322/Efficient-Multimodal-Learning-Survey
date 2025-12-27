@@ -299,6 +299,7 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 5. 2025_arXiv_CrayonRobo: Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation [arXiv](https://arxiv.org/abs/2505.02166)
 6. 2023_CoRL_Rt-2: Vision-language-action models transfer web knowledge to robotic control [arXiv](https://arxiv.org/abs/2307.15818)
 7. 2024_arXiv_Openvla: An open-source vision-language-action model [arXiv](https://arxiv.org/abs/2406.09246)
+8. 2025_arXiv_M3ET: Efficient Vision-Language Learning for Robotics based on Multimodal Mamba-Enhanced Transformer [arXiv](https://arxiv.org/html/2509.18005v1)
 
 ### Media Understanding and Generation
 1. 2021_EMNLP_VideoCLIP: Contrastive Pre-training for Zero-shot Video-Text Understanding [arXiv](https://arxiv.org/abs/2109.14084)
@@ -309,6 +310,8 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 6. 2024_arXiv_Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis [arXiv](https://arxiv.org/abs/2405.21075)
 7. 2022_ECCV_End-to-end active speaker detection [arXiv](https://arxiv.org/abs/2203.14250)
 8. 2023_CVPR_A light weight model for active speaker detection [arXiv](https://arxiv.org/abs/2303.04439)
+9. 2025_arXiv_EMMA: Efficient Multimodal Understanding, Generation, and Editing with a Unified Architecture [arXiv](https://arxiv.org/abs/2512.04810)
+
 
 ### Healthcare and Biomedical Intelligence
 1. 2023_CVPR_Learning to exploit temporal structure for biomedical vision-language processing [arXiv](https://arxiv.org/abs/2301.04558)
@@ -322,6 +325,8 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 2. 2023_ICRA_BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation [arXiv](https://arxiv.org/abs/2205.13542)
 3. 2021_ITSC_Fusionpainting: Multimodal fusion with adaptive attention for 3d object detection [arXiv](https://arxiv.org/abs/2106.12449)
 4. 2023_ICCV_On-device real-time custom hand gesture recognition [arXiv](https://arxiv.org/abs/2309.10858)
+5. 2025_arXiv_MM-Spatial: Exploring 3D Spatial Understanding in Multimodal LLMs [arXiv](https://arxiv.org/html/2503.13111v1)
+
 
 ### Multimodal Reasoning
 1. 2019_arXiv_Lxmert: Learning cross-modality encoder representations from transformers [arXiv](https://arxiv.org/abs/1908.07490)
@@ -331,3 +336,7 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 5. 2023_arXiv_Minigpt-4: Enhancing vision-language understanding with advanced large language models [arXiv](https://arxiv.org/abs/2304.10592)
 6. 2024_arXiv_Mathglm-vision: solving mathematical problems with multi-modal large language model [arXiv](https://arxiv.org/abs/2409.13729)
 7. 2023_ICCV_ViperGPT: Visual Inference via Python Execution for Reasoning [arXiv](https://arxiv.org/abs/2303.08128)
+8. 2025_arXiv_Stable and Efficient Single-Rollout RL for Multimodal Reasoning [arXiv](https://arxiv.org/abs/2512.18215)
+9. 2025_arXiv_Towards Efficient Multimodal Unified Reasoning Model via Model Merging [arXiv](https://arxiv.org/abs/2510.08987)
+
+
