@@ -59,7 +59,8 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 4. 2021_TASLP_Hubert: Self-supervised speech representation learning by masked prediction of hidden units [arXiv](https://arxiv.org/abs/2106.07447)
 5. 2021_Interspeech_AST: Audio Spectrogram Transformer [arXiv](https://arxiv.org/abs/2104.01778)
 6. 2022_AAAI_SSAST: Self-Supervised Audio Spectrogram Transformer [arXiv](https://arxiv.org/abs/2110.09784)
-7. 2024_Interspeech_Audio Mamba: Selective State Spaces for Self-Supervised Audio Representations [arXiv](https://arxiv.org/abs/2406.02178)
+7. 2024_Interspeech_Audio Mamba: Selective State Spaces for Self-Supervised Audio Representations [arXix](https://arxiv.org/abs/2406.02178)
+8. 2022_JSTSP_WavLM: Large-Scale Self-Supervised Pre-Training for Full Stack Speech Processing [arXiv](https://arxiv.org/abs/2110.13900)
 #### Thermal/Depth/Time-series
 1. 2022_CVPR_Target‑aware Dual Adversarial Learning and a Multi‑scenario Multi‑Modality Benchmark to Fuse Infrared and Visible for Object Detection [arXiv](https://arxiv.org/abs/2203.16220)
 2. 2024_CVPR_Flexible Window‑based Self‑attention Transformer in Thermal Image Super‑Resolution [CVPR](https://openaccess.thecvf.com/content/CVPR2024W/PBVS/papers/Jiang_Flexible_Window-based_Self-attention_Transformer_in_Thermal_Image_Super-Resolution_CVPRW_2024_paper.pdf)
@@ -68,6 +69,7 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
 5. 2021_AAAI_Informer: Beyond efficient transformer for long sequence time-series forecasting [arXiv](https://arxiv.org/abs/2012.07436)
 6. 2023_COLM_Mamba: Linear-Time Sequence Modeling with Selective State Spaces [arXiv](https://arxiv.org/abs/2312.00752)
 7. 2023_ICLR_Liquid Structural State-Space Models [arXiv](https://arxiv.org/abs/2209.12951)
+8. 2023_CVF_Towards zero-shot scale-aware monocular depth estimation [arXiv](https://arxiv.org/abs/2306.17253)
 
 ### Unified Encoders
 1. 2020_ECCV_Uniter: Universal image-text representation learning [arXiv](https://arxiv.org/abs/1909.11740)
