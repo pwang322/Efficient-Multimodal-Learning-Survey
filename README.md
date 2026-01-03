@@ -381,15 +381,12 @@ Figure 1. Overall landscape of Efficient Multimodal Learning (EML).
 If you find this repository or survey helpful in your research or work, please cite the following paper:
 
 ```
-@article{Wang_2025,
-title={From Models to Systems: A Comprehensive Survey of Efficient Multimodal Learning},
-author={Wang, Pan and Song, Siwei and Ji, Hui and Cao, Siqi and Yu, Heng and Liu, Zhijian and Yang, Huanrui and Lin, Yingyan (Celine) and Chen, Beidi and Bansal, Mohit and Liu, Xiaoming and Zhou, Pengfei and Yang, Ming-Hsuan and Chen, Tianlong and Hu, Jingtong},
-url={http://dx.doi.org/10.36227/techrxiv.176704030.08713592/v1},
-DOI={10.36227/techrxiv.176704030.08713592/v1},
-journal={TechRxiv},
-year={2025},
-month={Dec},
-publisher={Institute of Electrical and Electronics Engineers (IEEE)},
+@article{wang2025models,
+  title={From Models to Systems: A Comprehensive Survey of Efficient Multimodal Learning},
+  author={Wang, Pan and Song, Siwei and Ji, Hui and Cao, Siqi and Yu, Heng and Liu, Zhijian and Yang, Huanrui and Lin, Yingyan (Celine) and Chen, Beidi and Bansal, Mohit and Liu, Xiaoming and Zhou, Pengfei and Yang, Ming-Hsuan and Chen, Tianlong and Hu, Jingtong},
+  journal={Authorea Preprints},
+  year={2025},
+  publisher={Authorea}
 }
 ```
 
