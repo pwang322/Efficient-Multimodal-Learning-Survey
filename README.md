@@ -182,6 +182,7 @@ Figure 1. Overall landscape of Efficient Multimodal Learning (EML).
 3. 2025_arXiv_EfficientLLaVA: Generalizable Auto-Pruning for Large Vision-language Models [arXiv](https://arxiv.org/abs/2503.15369)
 4. 2023_ICLR_UPop: Unified and progressive pruning for compressing vision-language transformers [arXiv](https://arxiv.org/abs/2301.13741)
 5. 2025_arXiv_Modality-Aware Neuron Pruning for Unlearning in Multimodal Large Language Models [arXiv](https://arxiv.org/abs/2502.15910)
+6. 2025_CVPR_MoPE-CLIP: Structured Pruning for Efficient Vision-Language Models with Module-wise Pruning Error Metric [arXiv](https://arxiv.org/abs/2403.07839)
 
 ### Quantization
 1. 2024_NeurIPS_Q-vlm: Post-training quantization for large vision-language models [arXiv](https://arxiv.org/abs/2410.08119)
