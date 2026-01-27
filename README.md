@@ -358,7 +358,6 @@ Figure 1. Overall landscape of Efficient Multimodal Learning (EML).
 3. 2025_springer_CXR-LLAVA: a multimodal large language model for interpreting chest X-ray images [arXiv](https://arxiv.org/abs/2310.18341)
 4. 2023_NeurIPS_Llava-med: Training a large language-and-vision assistant for biomedicine in one day [arXiv](https://arxiv.org/abs/2306.00890)
 5. 2024_SenSys_Advancing PPG-based continuous blood pressure monitoring from a generative perspective [ACM](https://dl.acm.org/doi/10.1145/3666025.3699365)
-6. 2025_arXiv_MM-Spatial: Exploring 3D Spatial Understanding in Multimodal LLMs [arXiv](https://arxiv.org/html/2503.13111v1)
 
 ### Spatial and Physical Scene Understanding
 1. 2019_CVPR_Pointpillars: Fast encoders for object detection from point clouds [arXiv](https://arxiv.org/abs/1812.05784)
