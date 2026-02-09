@@ -1,4 +1,4 @@
-# [From Models to Systems: A Comprehensive Survey of Efficient Multimodal Learning](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176704030.08713592/v1)
+# [From Models to Systems: A Comprehensive Survey of Efficient Multimodal Learning](https://www.techrxiv.org/users/1011886/articles/1372030-from-models-to-systems-a-comprehensive-survey-of-efficient-multimodal-learning)
 The official GitHub page for the survey paper "From Models to Systems: A Comprehensive Survey of Efficient Multimodal Learning". And this paper is under review.
 
 ## Abstract
