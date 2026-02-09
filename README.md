@@ -317,7 +317,7 @@ Figure 1. Overall landscape of Efficient Multimodal Learning (EML).
 
 <p align="center">
   <a href="figs/Fig6_MLLMs.pdf">
-    <img src="figs/png/Fig6_MLLMs.pdf" width="900">
+    <img src="figs/png/Fig6_MLLMs.png" width="900">
   </a>
 </p>
 
