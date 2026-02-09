@@ -22,7 +22,7 @@ Figure 1. Overall landscape of Efficient Multimodal Learning (EML).
 
 <p align="center">
   <a href="figs/Fig3_model.pdf">
-    <img src="figs/Fig3_model.pdf" width="900">
+    <img src="figs/png/Fig3_model.png" width="900">
   </a>
 </p>
 
@@ -138,7 +138,7 @@ Figure 1. Overall landscape of Efficient Multimodal Learning (EML).
 
 <p align="center">
   <a href="figs/Fig4_algorithm.pdf">
-    <img src="figs/Fig4_algorithm.pdf" width="900">
+    <img src="figs/png/Fig4_algorithm.png" width="900">
   </a>
 </p>
 
@@ -268,7 +268,7 @@ Figure 1. Overall landscape of Efficient Multimodal Learning (EML).
 
 <p align="center">
   <a href="figs/Fig5_system.pdf">
-    <img src="figs/Fig5_system.pdf" width="900">
+    <img src="figs/png/Fig5_system.png" width="900">
   </a>
 </p>
 
@@ -317,7 +317,7 @@ Figure 1. Overall landscape of Efficient Multimodal Learning (EML).
 
 <p align="center">
   <a href="figs/Fig6_MLLMs.pdf">
-    <img src="figs/Fig6_MLLMs.pdf" width="900">
+    <img src="figs/png/Fig6_MLLMs.pdf" width="900">
   </a>
 </p>
 
