@@ -150,12 +150,13 @@ shift toward functional consolidation, where unification acts as a structural pr
   </a>
 </p>
 Figure 4: Algorithm-level efficiency for refining multimodal execution dynamics. This taxonomy illustrates the modulation of information flow across the EML pipeline through seven primary axes: 
-(i) \textbf{Token compression and selective computing} to filter spatial redundancy and retain informative semantic regions; 
-(ii) \textbf{Pruning} to eliminate structural redundancy within backbone architectures; 
-(iii) \textbf{Quantization} to minimize memory bandwidth via precision discretization; 
-(iv) \textbf{Knowledge distillation} to transfer reasoning behaviors and cognitive patterns to compact learners; 
-(v) \textbf{Prompting and speculative decoding} to streamline input adaptation and parallelize generation; 
-(vi) \textbf{Caching and reuse} to amortize prefill costs through temporal state persistence; and (vii) \textbf{Runtime sparsity} to enable adaptive computation based on input complexity. 
+(i) **Token compression and selective computing** to filter spatial redundancy and retain informative semantic regions; 
+(ii) **Pruning** to eliminate structural redundancy within backbone architectures; 
+(iii) **Quantization** to minimize memory bandwidth via precision discretization; 
+(iv) **Knowledge distillation** to transfer reasoning behaviors and cognitive patterns to compact learners; 
+(v) **Prompting and speculative decoding** to streamline input adaptation and parallelize generation; 
+(vi) **Caching and reuse** to amortize prefill costs through temporal state persistence; and 
+(vii) **Runtime sparsity** to enable adaptive computation based on input complexity. 
 These strategies transform multimodal execution from static processing to a dynamic, information-flow-aware pipeline.
 
 ### Token Compression & Selective Computing
