@@ -10,17 +10,17 @@ The official GitHub page for the survey paper "From Models to Systems: A Compreh
     <img src="figs/png/Fig1_overall.png" width="900">
   </a>
 </p>
-Fig. 1. Overall landscape of Efficient Multimodal Learning (EML), organized
-across three interconnected levels—Model, Algorithm (Compression & Accel-
-eration), and System—that jointly optimize architectural design, computation,
-and deployment, with representative applications illustrated.
+Figure 1: Overall landscape of Efficient Multimodal Learning (EML), organized across three interconnected
+levels—Model, Algorithm (Compression & Acceleration), and System—that jointly optimize architectural
+design, computation, and deployment, with representative applications illustrated. All these methods will
+facilitate downstream applications such as Autonomous driving, VR, Robotics, and so on.
 
 <p align="center">
   <a href="figs/Fig1_overall.pdf">
     <img src="figs/png/Fig2_overview.png" width="900">
   </a>
 </p>
-Fig. 2. The MAS taxonomy for EML with representative works.
+Figure 2: The MAS taxonomy for EML with representative works.
 
 ## Model
 
@@ -29,12 +29,10 @@ Fig. 2. The MAS taxonomy for EML with representative works.
     <img src="figs/png/Fig3_model.png" width="900">
   </a>
 </p>
-Fig. 3. Structural paradigms of multimodal encoders. The taxonomy contrasts
-(left) decoupled modality-specific pipelines utilizing post-hoc alignment or
-fusion mechanisms with (right) natively unified encoders that collapse hetero-
-geneous signals into a shared parameterized core. This architectural evolution
-reflects a shift toward functional consolidation, where unification acts as a
-structural prerequisite for efficiency.
+Figure 3: Structural paradigms of multimodal encoders. The taxonomy contrasts (left) decoupled modality-
+specific pipelines utilizing post-hoc alignment or fusion mechanisms with (right) natively unified encoders
+that collapse heterogeneous signals into a shared parameterized core. This architectural evolution reflects a
+shift toward functional consolidation, where unification acts as a structural prerequisite for efficiency.
 
 ### Modality-specific Encoders
 #### Vision Encoder
@@ -151,19 +149,14 @@ structural prerequisite for efficiency.
     <img src="figs/png/Fig4_algorithm.png" width="900">
   </a>
 </p>
-Fig. 4. Algorithm-level efficiency for refining multimodal execution dynam-
-ics. This taxonomy illustrates the modulation of information flow across
-the EML pipeline through seven primary axes: (i) Token compression
-and selective computing to filter spatial redundancy and retain informative
-semantic regions; (ii) Pruning to eliminate structural redundancy within
-backbone architectures; (iii) Quantization to minimize memory bandwidth
-via precision discretization; (iv) Knowledge distillation to transfer reasoning
-behaviors and cognitive patterns to compact learners; (v) Prompting and
-speculative decoding to streamline input adaptation and parallelize genera-
-tion; (vi) Caching and reuse to amortize prefill costs through temporal state
-persistence; and (vii) Runtime sparsity to enable adaptive computation based
-on input complexity. These strategies transform multimodal execution from
-static processing to a dynamic, information-flow-aware pipeline.
+Figure 4: Algorithm-level efficiency for refining multimodal execution dynamics. This taxonomy illustrates the modulation of information flow across the EML pipeline through seven primary axes: 
+(i) \textbf{Token compression and selective computing} to filter spatial redundancy and retain informative semantic regions; 
+(ii) \textbf{Pruning} to eliminate structural redundancy within backbone architectures; 
+(iii) \textbf{Quantization} to minimize memory bandwidth via precision discretization; 
+(iv) \textbf{Knowledge distillation} to transfer reasoning behaviors and cognitive patterns to compact learners; 
+(v) \textbf{Prompting and speculative decoding} to streamline input adaptation and parallelize generation; 
+(vi) \textbf{Caching and reuse} to amortize prefill costs through temporal state persistence; and (vii) \textbf{Runtime sparsity} to enable adaptive computation based on input complexity. 
+These strategies transform multimodal execution from static processing to a dynamic, information-flow-aware pipeline.
 
 ### Token Compression & Selective Computing
 1. 2023_arXiv_D2 pruning: Message passing for balancing diversity and difficulty in data pruning [arXiv](https://arxiv.org/abs/2310.07931)
@@ -294,20 +287,12 @@ static processing to a dynamic, information-flow-aware pipeline.
     <img src="figs/png/Fig5_system.png" width="900">
   </a>
 </p>
-Fig. 5. System-level efficiency for elastic resource orchestration. This
-framework illustrates the final operationalization of EML, where theoretical
-gains are translated into realized performance across five primary axes
-defined in our MAS taxonomy: (i) KV Cache Management and Serving to
-decouple memory growth from sequence length and optimize throughput; (ii)
-Edge-cloud Collaboration for establishing hierarchical cognitive pipelines
-and uncertainty-guided offloading; (iii) Latency-Aware Scheduling and
-Pipelining to maximize hardware utilization by reordering and overlapping
-cross-modal requests; (iv) Hardware-software (HW-SW) Co-design to
-natively align model architectural topology with the physical constraints of
-heterogeneous accelerators; and (v) Federated Learning to enable privacy-
-preserving, communication-efficient training across distributed, heterogeneous
-clients. Collectively, these strategies transform static multimodal execution
-into a dynamic, hardware-aware ecosystem.
+Figure 5: System-level efficiency for elastic resource orchestration. This framework illustrates the final operationalization of EML, where theoretical gains are translated into realized performance across five primary axes defined in our MAS taxonomy: 
+(i) \textbf{KV Cache Management and Serving} to decouple memory growth from sequence length and optimize throughput;
+(ii) \textbf{Edge-cloud Collaboration} for establishing hierarchical cognitive pipelines and uncertainty-guided offloading; 
+(iii) \textbf{Latency-Aware Scheduling and Pipelining} to maximize hardware utilization by reordering and overlapping cross-modal requests; and
+(iv) \textbf{Hardware-software (HW-SW) Co-design} to natively align model architectural topology with the physical constraints of heterogeneous accelerators. 
+Collectively, these strategies transform static multimodal execution into a dynamic, hardware-aware ecosystem.
 
 ### KV Cache Management & Serving
 1. 2025_arXiv_Characterizing and Efficiently Accelerating Multimodal Generation Models [arXiv](https://arxiv.org/abs/2410.00215)
@@ -357,12 +342,10 @@ into a dynamic, hardware-aware ecosystem.
     <img src="figs/png/Fig6_MLLMs.png" width="900">
   </a>
 </p>
-Fig. 6. Chronological overview of representative efficient MLLMs. Mod-
-els are categorized by primary optimization level: model-level (green),
-algorithm-level (blue), and system-level (orange). This distribution highlights
-a distinct paradigm shift, where model- and algorithm-level optimizations are
-dominant in the early stages, while system-level resource orchestration has
-gained significant prominence in recent years.
+Figure 6: Chronological overview of representative efficient MLLMs. Models are categorized by primary
+optimization level: model-level (green), algorithm-level (blue), and system-level (orange). This distri-
+bution highlights a distinct paradigm shift, where model- and algorithm-level optimizations are dominant in
+the early stages, while system-level resource orchestration has gained significant prominence in recent years.
 
 
 ## Application
