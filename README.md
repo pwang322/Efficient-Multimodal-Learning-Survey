@@ -289,10 +289,10 @@ These strategies transform multimodal execution from static processing to a dyna
   </a>
 </p>
 Figure 5: System-level efficiency for elastic resource orchestration. This framework illustrates the final operationalization of EML, where theoretical gains are translated into realized performance across five primary axes defined in our MAS taxonomy: 
-(i) \textbf{KV Cache Management and Serving} to decouple memory growth from sequence length and optimize throughput;
-(ii) \textbf{Edge-cloud Collaboration} for establishing hierarchical cognitive pipelines and uncertainty-guided offloading; 
-(iii) \textbf{Latency-Aware Scheduling and Pipelining} to maximize hardware utilization by reordering and overlapping cross-modal requests; and
-(iv) \textbf{Hardware-software (HW-SW) Co-design} to natively align model architectural topology with the physical constraints of heterogeneous accelerators. 
+(i) <strong>KV Cache Management and Serving</strong> to decouple memory growth from sequence length and optimize throughput;
+(ii) <strong>Edge-cloud Collaboration</strong> for establishing hierarchical cognitive pipelines and uncertainty-guided offloading; 
+(iii) <strong>Latency-Aware Scheduling and Pipelining</strong> to maximize hardware utilization by reordering and overlapping cross-modal requests; and
+(iv) <strong>Hardware-software (HW-SW) Co-design</strong> to natively align model architectural topology with the physical constraints of heterogeneous accelerators. 
 Collectively, these strategies transform static multimodal execution into a dynamic, hardware-aware ecosystem.
 
 ### KV Cache Management & Serving
