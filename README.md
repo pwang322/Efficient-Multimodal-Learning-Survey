@@ -1,4 +1,4 @@
-# [From Models to Systems: A Comprehensive Survey of Efficient Multimodal Learning](https://www.techrxiv.org/users/1011886/articles/1372030-from-models-to-systems-a-comprehensive-survey-of-efficient-multimodal-learning)
+# [From Models to Systems: A Comprehensive Survey of Efficient Multimodal Learning](https://openreview.net/pdf?id=yfTU8FTS2Z)
 The official GitHub page for the survey paper "From Models to Systems: A Comprehensive Survey of Efficient Multimodal Learning". This paper is accepted by Transactions on Machine Learning Research (TMLR) and awarded the Survey Certificate.
 
 ## Abstract
@@ -211,19 +211,6 @@ These strategies transform multimodal execution from static processing to a dyna
 7. 2024_NuerIPS_Towards Next-Level Post-Training Quantization of Hyper-Scale Transformers [arXiv](https://arxiv.org/abs/2402.08958)
 8. 2024_MM_Advancing Multimodal Large Language Models with Quantization-Aware Scale Learning for Efficient Adaptation [ACM](https://dl.acm.org/doi/10.1145/3664647.3680838)
 
-### Caching & Reuse
-1. 2024_arXiv_VL-Cache: Sparsity and Modality-Aware KV Cache Compression for Vision-Language Model Inference Acceleration [arXiv](https://arxiv.org/abs/2410.23317)
-2. 2024_ECCV_Efficient inference of vision instruction-following models with elastic cache [arXiv](https://arxiv.org/abs/2407.18121)
-3. 2024_arXiv_Look-m: Look-once optimization in kv cache for efficient multimodal long-context inference [arXiv](https://arxiv.org/abs/2406.18139)
-4. 2024_arXiv_Cross-Self KV Cache Pruning for Efficient Vision-Language Inference [arXiv](https://arxiv.org/abs/2412.04652)
-5. 2025_arXiv_Fastcache: Optimizing multimodal llm serving through lightweight kv-cache compression framework [arXiv](https://arxiv.org/abs/2503.08461)
-6. 2025_arXiv_AirCache: Activating Inter-modal Relevancy KV Cache Compression for Efficient Large Vision-Language Model Inference [arXiv](https://arxiv.org/abs/2503.23956)
-7. 2025_arXiv_VLA-Cache: Towards Efficient Vision-Language-Action Model via Adaptive Token Caching in Robotic Manipulation [arXiv](https://arxiv.org/abs/2502.02175)
-8. 2024_arXiv_Inf-MLLM: Efficient streaming inference of multimodal large language models on a single GPU [arXiv](https://arxiv.org/abs/2409.09086)
-9. 2025_arXiv_MPIC: Position-Independent Multimodal Context Caching System for Efficient MLLM Serving [arXiv](https://arxiv.org/abs/2502.01960)
-10. 2025_arXiv_Cache-of-Thought: Master-Apprentice Framework for Cost-Effective Vision Language Model Inference [arXiv](https://arxiv.org/abs/2502.20587)
-11. 2024_arXiv_Prefixkv: Adaptive prefix kv cache is what vision instruction-following models need for efficient generation [arXiv](https://arxiv.org/abs/2412.03409)
-12. 2025_arXiv_Meda: Dynamic kv cache allocation for efficient multimodal long-context inference [arXiv](https://arxiv.org/abs/2502.17599)
 
 ### Knowledge Distillation
 #### Prediction-level
@@ -257,6 +244,21 @@ These strategies transform multimodal execution from static processing to a dyna
 5. 2025_DAC_AASD: Accelerate Inference by Aligning Speculative Decoding in Multimodal Large Language Models [IEEE](https://ieeexplore.ieee.org/document/11132960)
 6. 2025_arXiv_Speculative decoding and beyond: An in-depth survey of techniques [arXiv](https://arxiv.org/abs/2502.19732)
 7. 2025_arXiv_Spec-vla: speculative decoding for vision-language-action models with relaxed acceptance [arXiv](https://arxiv.org/abs/2507.22424)
+
+
+### Caching & Reuse
+1. 2024_arXiv_VL-Cache: Sparsity and Modality-Aware KV Cache Compression for Vision-Language Model Inference Acceleration [arXiv](https://arxiv.org/abs/2410.23317)
+2. 2024_ECCV_Efficient inference of vision instruction-following models with elastic cache [arXiv](https://arxiv.org/abs/2407.18121)
+3. 2024_arXiv_Look-m: Look-once optimization in kv cache for efficient multimodal long-context inference [arXiv](https://arxiv.org/abs/2406.18139)
+4. 2024_arXiv_Cross-Self KV Cache Pruning for Efficient Vision-Language Inference [arXiv](https://arxiv.org/abs/2412.04652)
+5. 2025_arXiv_Fastcache: Optimizing multimodal llm serving through lightweight kv-cache compression framework [arXiv](https://arxiv.org/abs/2503.08461)
+6. 2025_arXiv_AirCache: Activating Inter-modal Relevancy KV Cache Compression for Efficient Large Vision-Language Model Inference [arXiv](https://arxiv.org/abs/2503.23956)
+7. 2025_arXiv_VLA-Cache: Towards Efficient Vision-Language-Action Model via Adaptive Token Caching in Robotic Manipulation [arXiv](https://arxiv.org/abs/2502.02175)
+8. 2024_arXiv_Inf-MLLM: Efficient streaming inference of multimodal large language models on a single GPU [arXiv](https://arxiv.org/abs/2409.09086)
+9. 2025_arXiv_MPIC: Position-Independent Multimodal Context Caching System for Efficient MLLM Serving [arXiv](https://arxiv.org/abs/2502.01960)
+10. 2025_arXiv_Cache-of-Thought: Master-Apprentice Framework for Cost-Effective Vision Language Model Inference [arXiv](https://arxiv.org/abs/2502.20587)
+11. 2024_arXiv_Prefixkv: Adaptive prefix kv cache is what vision instruction-following models need for efficient generation [arXiv](https://arxiv.org/abs/2412.03409)
+12. 2025_arXiv_Meda: Dynamic kv cache allocation for efficient multimodal long-context inference [arXiv](https://arxiv.org/abs/2502.17599)
 
 ### Runtime Sparsity
 1. 2025_arXiv_Skip-Vision: Efficient and Scalable Acceleration of Vision-Language Models via Adaptive Token Skipping [arXiv](https://arxiv.org/abs/2503.21817)
@@ -323,19 +325,6 @@ Collectively, these strategies transform static multimodal execution into a dyna
 1. 2024_ISPASS_Generative AI Beyond LLMs: System Implications of Multi-Modal Generation [arXiv](https://arxiv.org/abs/2312.14385)
 2. 2023_ACML_Harmonic-NAS: Hardware-Aware Multimodal Neural Architecture Search on Resource-constrained Devices [arXiv](https://arxiv.org/abs/2309.06612)
 
-### Federated Learning
-1. 2023_ICLR_FedCLIP: Fast Generalization and Personalization for CLIP in Federated Learning [arXiv](https://arxiv.org/abs/2302.13485)
-2. 2023_WWW_pFedPrompt: Learning Personalized Prompt for Vision-Language Models in Federated Learning [ACM](https://dl.acm.org/doi/10.1145/3543507.3583518)
-3. 2023_ICLR_Multimodal Federated Learning via Contrastive Representation Ensemble [arXiv](https://arxiv.org/abs/2302.08888)
-4. 2025_Neural Networks_FedMEKT: Distillation-Based Embedding Knowledge Transfer for Multimodal Federated Learning [arXiv](https://arxiv.org/abs/2307.13214) [ACM](https://dl.acm.org/doi/10.1016/j.neunet.2024.107017)
-5. 2021_SIGIR_FedCMR: Federated Cross-Modal Retrieval [ACM](https://dl.acm.org/doi/10.1145/3404835.3462989)
-6. 2023_arXiv_Multimodal Federated Learning with Missing Modality via Prototype Mask and Contrast [arXiv](https://arxiv.org/abs/2312.13508)
-7. 2024_arXiv_Communication-Efficient Multimodal Federated Learning: Joint Modality and Client Selection [arXiv](https://arxiv.org/html/2401.16685v1)
-8. 2022_AAAI_Cross-Modal Federated Human Activity Recognition via Modality-Agnostic and Modality-Specifc Representation Learning [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/20213)
-9. 2024_TPAMI_Cross-Modal Federated Human Activity Recognition [IEEE](https://ieeexplore.ieee.org/document/10440498)
-10. 2020_AAAI_Federated Learning for Vision-and-Language Grounding Problems [AAAI](https://ojs.aaai.org/index.php/aaai/article/view/6824)
-11. 2023_TGRS_FedFusion: Manifold Driven Federated Learning for Multi-satellite and Multi-modality Fusion [arXiv](https://arxiv.org/abs/2311.09540)
-
 ## Efficient Multimodal Large Language Model
 
 <p align="center">
@@ -351,9 +340,7 @@ the early stages, while system-level resource orchestration has gained significa
 
 ## Application
 
-
-
-### Affective Computing and Human Behavior Analysis
+### Affective Computing
 1. 2025_AAAI_DLF: Disentangled-language-focused multimodal sentiment analysis [arXiv](https://arxiv.org/abs/2412.12225)
 2. 2025_ICRA_Ugotme: An embodied system for affective human-robot interaction [arXiv](https://arxiv.org/abs/2410.18373)
 
@@ -378,14 +365,14 @@ the early stages, while system-level resource orchestration has gained significa
 8. 2023_CVPR_A light weight model for active speaker detection [arXiv](https://arxiv.org/abs/2303.04439)
 9. 2025_arXiv_EMMA: Efficient Multimodal Understanding, Generation, and Editing with a Unified Architecture [arXiv](https://arxiv.org/abs/2512.04810)
 
-### Healthcare and Biomedical Intelligence
+### Healthcare
 1. 2023_CVPR_Learning to exploit temporal structure for biomedical vision-language processing [arXiv](https://arxiv.org/abs/2301.04558)
 2. 2024_MICCAI_KARGEN: Knowledge-Enhanced Automated Radiology report generation using large language models [arXiv](https://arxiv.org/abs/2409.05370)
 3. 2025_springer_CXR-LLAVA: a multimodal large language model for interpreting chest X-ray images [arXiv](https://arxiv.org/abs/2310.18341)
 4. 2023_NeurIPS_Llava-med: Training a large language-and-vision assistant for biomedicine in one day [arXiv](https://arxiv.org/abs/2306.00890)
 5. 2024_SenSys_Advancing PPG-based continuous blood pressure monitoring from a generative perspective [ACM](https://dl.acm.org/doi/10.1145/3666025.3699365)
 
-### Spatial and Physical Scene Understanding
+### Spatial Understanding
 1. 2019_CVPR_Pointpillars: Fast encoders for object detection from point clouds [arXiv](https://arxiv.org/abs/1812.05784)
 2. 2023_ICRA_BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation [arXiv](https://arxiv.org/abs/2205.13542)
 3. 2021_ITSC_Fusionpainting: Multimodal fusion with adaptive attention for 3d object detection [arXiv](https://arxiv.org/abs/2106.12449)
@@ -403,16 +390,31 @@ the early stages, while system-level resource orchestration has gained significa
 8. 2025_arXiv_Stable and Efficient Single-Rollout RL for Multimodal Reasoning [arXiv](https://arxiv.org/abs/2512.18215)
 9. 2025_arXiv_Towards Efficient Multimodal Unified Reasoning Model via Model Merging [arXiv](https://arxiv.org/abs/2510.08987)
 
+### Federated Learning
+1. 2023_ICLR_FedCLIP: Fast Generalization and Personalization for CLIP in Federated Learning [arXiv](https://arxiv.org/abs/2302.13485)
+2. 2023_WWW_pFedPrompt: Learning Personalized Prompt for Vision-Language Models in Federated Learning [ACM](https://dl.acm.org/doi/10.1145/3543507.3583518)
+3. 2023_ICLR_Multimodal Federated Learning via Contrastive Representation Ensemble [arXiv](https://arxiv.org/abs/2302.08888)
+4. 2025_Neural Networks_FedMEKT: Distillation-Based Embedding Knowledge Transfer for Multimodal Federated Learning [arXiv](https://arxiv.org/abs/2307.13214) [ACM](https://dl.acm.org/doi/10.1016/j.neunet.2024.107017)
+5. 2021_SIGIR_FedCMR: Federated Cross-Modal Retrieval [ACM](https://dl.acm.org/doi/10.1145/3404835.3462989)
+6. 2023_arXiv_Multimodal Federated Learning with Missing Modality via Prototype Mask and Contrast [arXiv](https://arxiv.org/abs/2312.13508)
+7. 2024_arXiv_Communication-Efficient Multimodal Federated Learning: Joint Modality and Client Selection [arXiv](https://arxiv.org/html/2401.16685v1)
+8. 2022_AAAI_Cross-Modal Federated Human Activity Recognition via Modality-Agnostic and Modality-Specifc Representation Learning [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/20213)
+9. 2024_TPAMI_Cross-Modal Federated Human Activity Recognition [IEEE](https://ieeexplore.ieee.org/document/10440498)
+10. 2020_AAAI_Federated Learning for Vision-and-Language Grounding Problems [AAAI](https://ojs.aaai.org/index.php/aaai/article/view/6824)
+11. 2023_TGRS_FedFusion: Manifold Driven Federated Learning for Multi-satellite and Multi-modality Fusion [arXiv](https://arxiv.org/abs/2311.09540)
+
 ## Citation
 If you find this repository or survey helpful in your research or work, please cite the following paper:
 
 ```
-@article{wang2025models,
-  title={From Models to Systems: A Comprehensive Survey of Efficient Multimodal Learning},
-  author={Wang, Pan and Song, Siwei and Ji, Hui and Cao, Siqi and Yu, Heng and Liu, Zhijian and Yang, Huanrui and Lin, Yingyan (Celine) and Chen, Beidi and Bansal, Mohit and Liu, Xiaoming and Zhou, Pengfei and Yang, Ming-Hsuan and Chen, Tianlong and Hu, Jingtong},
-  journal={Authorea Preprints},
-  year={2025},
-  publisher={Authorea}
+@article{wang2026from,
+title={From Models to Systems: A Comprehensive Survey of Efficient Multimodal Learning},
+author={Pan Wang and Siwei Song and Hui Ji and Siqi Cao and Heng Yu and Zhijian Liu and Huanrui Yang and Yingyan Celine Lin and Beidi Chen and Mohit Bansal and Xiaoming Liu and Pengfei Zhou and Ming-Hsuan Yang and Tianlong Chen and Jingtong Hu},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2026},
+url={https://openreview.net/forum?id=yfTU8FTS2Z},
+note={Survey Certification}
 }
 ```
 
