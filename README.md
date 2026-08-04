@@ -407,14 +407,11 @@ the early stages, while system-level resource orchestration has gained significa
 If you find this repository or survey helpful in your research or work, please cite the following paper:
 
 ```
-@article{wang2026from,
-title={From Models to Systems: A Comprehensive Survey of Efficient Multimodal Learning},
-author={Pan Wang and Siwei Song and Hui Ji and Siqi Cao and Heng Yu and Zhijian Liu and Huanrui Yang and Yingyan Celine Lin and Beidi Chen and Mohit Bansal and Xiaoming Liu and Pengfei Zhou and Ming-Hsuan Yang and Tianlong Chen and Jingtong Hu},
-journal={Transactions on Machine Learning Research},
-issn={2835-8856},
-year={2026},
-url={https://openreview.net/forum?id=yfTU8FTS2Z},
-note={Survey Certification}
+@article{wang2026models,
+  title={From models to systems: A comprehensive survey of efficient multimodal learning},
+  author={Wang, Pan and Song, Siwei and Ji, Hui and Cao, Siqi and Yu, Heng and Liu, Zhijian and Yang, Huanrui and Lin, Yingyan Celine and Chen, Beidi and Bansal, Mohit and others},
+  journal={Transactions on Machine Learning Research},
+  year={2026}
 }
 ```
 
