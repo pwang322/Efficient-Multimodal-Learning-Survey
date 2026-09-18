@@ -1,4 +1,4 @@
-# [From Models to Systems: A Comprehensive Survey of Efficient Multimodal Learning](https://openreview.net/pdf?id=yfTU8FTS2Z)
+# [From Models to Systems: A Comprehensive Survey of Efficient Multimodal Learning](https://arxiv.org/abs/2609.19445)
 The official GitHub page for the survey paper "From Models to Systems: A Comprehensive Survey of Efficient Multimodal Learning". This paper is accepted by Transactions on Machine Learning Research (TMLR) and awarded the Survey Certificate.
 
 ## Abstract
